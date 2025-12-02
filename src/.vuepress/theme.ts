@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "/assets/images/logo.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "q1251465796.github.io",
 
   docsDir: "src",
 
@@ -37,11 +37,6 @@ export default hopeTheme({
       Gitee: "https://gitee.com/q1251465796",
       GitHub: "https://github.com/q1251465796",
     },
-  },
-
-  // 多语言配置
-  metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
